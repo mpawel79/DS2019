@@ -1,6 +1,6 @@
 # DS2019
 
-Some exercises and projects done in R, and in Tableu Desktom, during Data Science studies:
+Some exercises and projects done in R, and in Tableau Desktop, during Data Science studies:
 
 DataMining
  - Frequent sets exercises, assosiation rules finding, decision trees
@@ -15,7 +15,7 @@ MSI_AI-ML
   - Genetic Algoritms optimalization
   
 
-Tableau - Lego bricks in numbers - analisys of brick in set in years 1949-2018 [https://github.com/mpawel79/DS2019/tree/master/Tableau/scr]
+Tableau - Lego bricks in numbers - analisys of brick sets in years 1949-2018 [https://github.com/mpawel79/DS2019/tree/master/Tableau/scr]
  
 
 TextMining
